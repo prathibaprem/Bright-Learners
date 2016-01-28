@@ -1,0 +1,37 @@
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+.jumbotron
+{
+    text-align: center;
+    background-image: url('../images/flame.png');
+    color:white;
+    }
+ul.nav
+{
+font-family: 'Arvo',courier;
+font-size:18px;
+}
+.btn-lg
+{
+    font-size:36px;
+}
+.jumbotron h1
+{
+font-family: 'Arvo',courier;
+font-size:36px;
+margin-top:0px;
+margin-bottom:30px;
+}
+.jumbotron p
+{
+margin-top:20px
+font-weight:100;
+}
+
+.emphasis
+{
+    color:orangered;
+    font-size: 14;
+}
